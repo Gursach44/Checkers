@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Music
+comment1.params=file\ musicLoop
+comment1.target=void\ Music(java.lang.String,\ int)
+numComments=2
